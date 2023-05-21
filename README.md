@@ -10,3 +10,7 @@ Directory information:
 <li><a href="https://github.com/mellowpuppy/algorithms/blob/main/encryption/simple-image-steganography.py">Hide data in images</a> using <a href="https://github.com/computationalcore/cryptosteganography">cryptosteganography</a> and <a href="https://github.com/pyca/cryptography">cryptography</a> modules.</ul>
 <li>The <a href="https://github.com/mellowpuppy/algorithms/tree/main/project-euler">project-euler</a> folder contains my solutions to the math challenges on <a href="https://projecteuler.net/">projecteuler.net</a>.</li>
 </ul>
+
+To Do
+=====
+Algorithms for data science
