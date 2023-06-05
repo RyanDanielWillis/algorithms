@@ -1,0 +1,12 @@
+I'd like to look into these algorithms for data science:
+
+Linear Regression: Used for modeling the relationship between a dependent variable and one or more independent variables by fitting a linear equation to the data.
+Logistic Regression: A regression algorithm used for binary classification problems. It estimates the probability of an instance belonging to a particular class.
+Decision Trees: Non-parametric algorithms that use a tree-like model for making decisions. They partition the data based on features and create a tree structure to predict the target variable.
+Random Forest: An ensemble learning method that combines multiple decision trees to make predictions. It improves prediction accuracy and handles overfitting.
+Support Vector Machines (SVM): A supervised learning algorithm used for classification and regression analysis. It creates hyperplanes to separate data points into different classes.
+K-means Clustering: An unsupervised learning algorithm used for clustering data. It partitions the data into K clusters based on the similarity of data points.
+Principal Component Analysis (PCA): A dimensionality reduction technique used to transform high-dimensional data into a lower-dimensional space while preserving important information.
+Naive Bayes: A probabilistic classifier based on Bayes' theorem. It assumes independence between features and is commonly used for text classification and spam filtering.
+Gradient Boosting: A machine learning technique that combines multiple weak learners (typically decision trees) to create a strong predictive model. Examples include XGBoost and LightGBM.
+Deep Learning (Neural Networks): A subset of machine learning that utilizes deep neural networks to learn and extract patterns from complex data. Widely used for image recognition, natural language processing, and speech recognition.
